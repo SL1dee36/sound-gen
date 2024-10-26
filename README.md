@@ -14,7 +14,7 @@ A simple C++ library for generating various waveforms, mixing sounds, and saving
 
 ## Build Instructions
 
-1. Clone the repository: `git clone https://github.com/sl1dee36/SoundGenerator.git` (replace with your repository URL)
+1. Clone the repository: `git clone https://github.com/sl1dee36/sound-gen.git` (replace with your repository URL)
 2. Create a build directory: `mkdir build && cd build`
 3. Configure the project with CMake: `cmake ..`
 4. Build the project: `cmake --build .`
